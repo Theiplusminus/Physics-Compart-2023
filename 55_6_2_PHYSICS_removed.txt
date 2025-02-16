@@ -103,7 +103,7 @@ R	(b)	R
 
 (c)	R	(d)	2R
 
-13. Light of frequency 1·5 v0 is incident on a photosensitive material of threshold frequency v0. If the frequency of the incident radiation is kept constant and intensity is increased, the photo current will :
+13. Light of frequency 1Â·5 v0 is incident on a photosensitive material of threshold frequency v0. If the frequency of the incident radiation is kept constant and intensity is increased, the photo current will :
 (a) increase
 (b) decrease
 (c) not change
@@ -148,7 +148,7 @@ out. Find the ratio (r/H).	2
 20. (a) The electric field of an electromagnetic wave passing through vacuum is represented as Ex = E0 sin (kz  t). Identify the parameter which is related to the (i) wavelength, and (ii) the frequency of the wave in the above equation.
 (b)  Write two properties of a medium that determine the velocity of light in that medium.	2
 21. A sphere S1 of radius r1 enclosing a charge Q1 is surrounded by another concentric sphere S2 of radius r2 (r2 > r1). If there is a charge	Q2 in the space between S1 and S2, find the ratio of electric flux through S1 and S2.	2
-22. Light of wavelength 3500 Å is incident on two metals A and B. Which of them will yield photoelectrons, if their work functions are 4 2 eV and 1 9 eV respectively ? Make the necessary calculations to justify your
+22. Light of wavelength 3500 Ã… is incident on two metals A and B. Which of them will yield photoelectrons, if their work functions are 4 2 eV and 1 9 eV respectively ? Make the necessary calculations to justify your
 answer.	2
 23. (a)  A uniform electric field E of 500 N/C is directed along +x axis. O, B and A are three points in the field having x and y coordinates (in cm ) (0, 0), (4, 0) and (0, 3) respectively. Calculate the potential
 difference between the points (i) O and A, and (ii) O and B.	2
@@ -169,7 +169,7 @@ SECTION C
 (a) emf induced in the rod 2 s after it starts falling,
 (b) polarity of the emf induced, and
 (c) the end of the rod which is at the higher potential.
-0·3	10 4 Wb/m2 and take g = 10 m/s2.	3
+0Â·3	10 4 Wb/m2 and take g = 10 m/s2.	3
 
 27. The figure shows a capacitor C, a variable resistor R and a bulb connected in series to the ac source of frequency (v). The bulb glows with some brightness.
 
@@ -186,8 +186,8 @@ OR
 (ii)	A proton and an alpha particle approach a target nucleus in head-on position, with equal velocities. Find the ratio of their distances of closest approach to the target nucleus.	3
 
 29. (a)  (i)  In which case is diffraction effect more dominant  slit formed by 2 blades or slit formed by two fingers ?
-(ii)  Yellow light (  = 6000 Å) illuminates a single slit of width
-1  10 4 m. Calculate (i) the distance between two dark lines on either side of central maximum, in the diffraction pattern observed on a screen kept 1·5 m away from the slit, and (ii) the
+(ii)  Yellow light (  = 6000 Ã…) illuminates a single slit of width
+1  10 4 m. Calculate (i) the distance between two dark lines on either side of central maximum, in the diffraction pattern observed on a screen kept 1Â·5 m away from the slit, and (ii) the
 angular spread of the first minimum.	3
 OR
 (b) (i)  What will be the colour of the central bright fringe in Y double slit experiment if the monochromatic source is replaced by a source of white light ? Give reason for your answer.
