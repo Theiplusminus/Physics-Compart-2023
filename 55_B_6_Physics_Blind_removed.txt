@@ -30,13 +30,13 @@ SECTION A
 1. The electric flux through a Gaussian spherical surface enclosing a point charge q is . If the charge is replaced by an electric dipole, magnitude of its dipole moment being 2qa, the flux through the surface will be :
 (a) 2 	 (b)  
 (c)   2	(d)  Zero
-2. 109	electrons	are transferred to a	pith ball	with charge 0·16 nC. Its charge now is :
+2. 109	electrons	are transferred to a	pith ball	with charge 0Â·16 nC. Its charge now is :
 (a) Zero
-(b) 3·2	10 10 C
-(c) 1·6	10 9 C
-(d) 3·2	10 10 C
-3. The amount of charge flowing across a cross-section of a conductor, connected to a battery, in 4·0 s is 720 mC. The current in the circuit is :
-(a) 0·18 A	(b)  1·8 A
+(b) 3Â·2	10 10 C
+(c) 1Â·6	10 9 C
+(d) 3Â·2	10 10 C
+3. The amount of charge flowing across a cross-section of a conductor, connected to a battery, in 4Â·0 s is 720 mC. The current in the circuit is :
+(a) 0Â·18 A	(b)  1Â·8 A
 (c)   18 mA	(d)  18 A
 4. Two cells, one of emf 2E and internal resistance r and the other of emf E and internal resistance r/2 are connected in parallel, by connecting their positive terminals together and their negative terminals together. The equivalent emf of the combination is :
 (a) 3E	(b)	4E
@@ -87,12 +87,12 @@ combination will be :
 2 times
 3
 
-10. The work function of potassium is 2·3 eV and threshold wavelength for it is 540 nm. The threshold wavelength for a metal whose work function is 4·6 eV will be :
+10. The work function of potassium is 2Â·3 eV and threshold wavelength for it is 540 nm. The threshold wavelength for a metal whose work function is 4Â·6 eV will be :
 (a) 135 nm	(b)  270 nm
 (c)   540 nm	(d)  1080 nm
-11. The minimum energy required to free the electron from the ground state of the hydrogen atom in Bohr model is 13·6 eV. The energy of the electron in its second orbit will be :
-(a) 6·8 eV	(b)  6·8 eV
-(c)    3·4 eV	(d)  3·4 eV
+11. The minimum energy required to free the electron from the ground state of the hydrogen atom in Bohr model is 13Â·6 eV. The energy of the electron in its second orbit will be :
+(a) 6Â·8 eV	(b)  6Â·8 eV
+(c)    3Â·4 eV	(d)  3Â·4 eV
 12. Which of the following series in hydrogen spectrum lies in its visible region ?
 (a) Lyman series
 (b) Balmer series
@@ -160,15 +160,15 @@ stretched so that its length increases by 25%. It is again connected to the same
 (b) the resistance of the conductor.
 55(B)	Page 15 of 27	P.T.O.
 
-27. (a)  A metallic rod of length 40 cm is rotated with a frequency of 300 rpm about a vertical axis passing through its centre. If a uniform magnetic field of 0·2 T acts vertically downward, find the emf induced between (i) the ends of
+27. (a)  A metallic rod of length 40 cm is rotated with a frequency of 300 rpm about a vertical axis passing through its centre. If a uniform magnetic field of 0Â·2 T acts vertically downward, find the emf induced between (i) the ends of
 the rod, and (ii) the centre and one end of the rod.	3
 OR
-(b)  A square coil of side 10 cm having 100 turns is suspended in a magnetic field of 100 mT so that its plane is normal to the field. The coil is rotated through 90° in 0·2 s.
+(b)  A square coil of side 10 cm having 100 turns is suspended in a magnetic field of 100 mT so that its plane is normal to the field. The coil is rotated through 90Â° in 0Â·2 s.
 Calculate the average emf induced in it.	3
 28. ith the principle
 of conservation of energy.	3
 29. (a)  Obtain the relationship between atomic mass unit (u) and electron volt (eV).
-(b)	The mass of a ball is 0·5 kg. It is totally converted into energy. Calculate the energy output in eV.	3
+(b)	The mass of a ball is 0Â·5 kg. It is totally converted into energy. Calculate the energy output in eV.	3
 30. (a)	Write 
 (i) explain the existence of threshold frequency for a given photosensitive surface.
 (ii) show that the stopping potential, V0 varies linearly with the frequency v of incident radiation.
@@ -212,7 +212,7 @@ OR
 
 (b) (i) Derive an expression for the force acting on a conductor carrying current I in a magnetic field B .
 (ii)  A long horizontal conductor carries a current of 30 A, in east to west direction. What are the magnitude and direction of the magnetic field due
-to the current 1·0 m below the conductor ?	5
+to the current 1Â·0 m below the conductor ?	5
 33. (a)  (i)  What is a wavefront ? What is the direction of a beam of light with respect to the wavefront associated with it ?
 (ii) State	Huygens	principle.	Using	it, explain	the propagation of light.
 (iii) State two conditions necessary for light from two sources to be coherent.	5
@@ -226,7 +226,7 @@ SECTION E
 
 
 34. Case Study : A charged body inside an electric field.
-A charged latex sphere of mass 1·85 10 13 kg is held stationary in between two horizontal plates which are separated by a distance 0·62 cm. The potential difference between the plates is 1·24 103 V with the upper plate being positive.
+A charged latex sphere of mass 1Â·85 10 13 kg is held stationary in between two horizontal plates which are separated by a distance 0Â·62 cm. The potential difference between the plates is 1Â·24 103 V with the upper plate being positive.
 Based on the above facts, answer the following questions :
 (i) What is the nature of charge on the latex sphere ?	1
 (ii) What is the direction of electric field between the plates ?	1
@@ -239,7 +239,7 @@ OR
 
 Based on the above facts, answer the following questions :
 (i) If the refractive index of the denser medium increases, how will the corresponding value of critical angle for the pair of mediums change ?	1
-(ii) Explain how this phenomenon can be used in a prism to deviate a ray of light by 90°.	1
+(ii) Explain how this phenomenon can be used in a prism to deviate a ray of light by 90Â°.	1
 (iii) What is an optical fibre ? Write its two uses.	2
 OR
 (iii)	A ray of light travels from an optically denser medium to a rarer medium and is incident at critical angle (ic). Find
