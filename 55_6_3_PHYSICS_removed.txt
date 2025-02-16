@@ -51,11 +51,17 @@ m and 2M	(d)	2m and M
 (c) first increases to become maximum and then decreases to zero
 (d) first decreases to become zero and then increases
 
-5.Whichof the following radiations has the highest frequency ?(a)
+5.
+Which
+of the following radiations has the highest frequency ?
+
+(a)
 (b)
 (c)
-(d)Visible light Infrared rays Microwaves
-X-rays
+(d)
+Visible light Infrared rays Microwaves
+X-rays
+
 6. 	-slit experiment, the intensity on the screen is I0 at a point where path difference is	. The intensity at the point where path
 difference is 4 is :
 
@@ -73,7 +79,7 @@ I0	(b)	I0
 (c) for nuclei of middle mass numbers only
 (d) both for the light nuclei and the heavy nuclei
 
-9. Light of frequency 1·5 v0 is incident on a photosensitive material of threshold frequency v0. If the frequency of the incident radiation is kept constant and intensity is increased, the photo current will :
+9. Light of frequency 1Â·5 v0 is incident on a photosensitive material of threshold frequency v0. If the frequency of the incident radiation is kept constant and intensity is increased, the photo current will :
 (a) increase
 (b) decrease
 (c) not change
@@ -141,7 +147,7 @@ SECTION B
 frequency of the wave in the above equation.
 (b)  Write two properties of a medium that determine the velocity of light in that medium.	2
 20. Two identical bars, one of a paramagnetic material and another of a diamagnetic material are kept in a uniform magnetic field. Show diagrammatically the modifications in the pattern of magnetic field in each	case.	How	are	the	two	materials	affected	by	increase	in temperature ?									2
-21. Light of wavelength 3500 Å is incident on two metals A and B. Which of them will yield photoelectrons, if their work functions are 4 2 eV and 1 9 eV respectively ? Make the necessary calculations to justify your
+21. Light of wavelength 3500 Ã… is incident on two metals A and B. Which of them will yield photoelectrons, if their work functions are 4 2 eV and 1 9 eV respectively ? Make the necessary calculations to justify your
 answer.	2
 
 22. A uniform electric field is represented as E = (3	103
@@ -181,8 +187,8 @@ OR
 (ii)	A proton and an alpha particle approach a target nucleus in head-on position, with equal velocities. Find the ratio of their distances of closest approach to the target nucleus.	3
 
 28. (a)  (i)  In which case is diffraction effect more dominant  slit formed by 2 blades or slit formed by two fingers ?
-(ii)  Yellow light (  = 6000 Å) illuminates a single slit of width
-1  10 4 m. Calculate (i) the distance between two dark lines on either side of central maximum, in the diffraction pattern observed on a screen kept 1·5 m away from the slit, and (ii) the
+(ii)  Yellow light (  = 6000 Ã…) illuminates a single slit of width
+1  10 4 m. Calculate (i) the distance between two dark lines on either side of central maximum, in the diffraction pattern observed on a screen kept 1Â·5 m away from the slit, and (ii) the
 angular spread of the first minimum.	3
 OR
 (b) (i)  What will be the colour of the central bright fringe in Y double slit experiment if the monochromatic source is replaced by a source of white light ? Give reason for your answer.
