@@ -1,0 +1,328 @@
+General Instructions :
+Read the following instructions very carefully and strictly follow them :
+(i) This question paper contains 35 questions. All questions are compulsory.
+(ii) This question paper is divided into five Sections	A, B, C, D and E.
+(iii) In Section A	Questions no. 1 to 18 are Multiple Choice (MCQ) type questions, carrying 1 mark each.
+(iv) In Section B	Questions no. 19 to 25 are Very Short Answer (VSA) type questions, carrying 2 marks each.
+(v) In Section C	Questions no. 26 to 30 are Short Answer (SA) type questions, carrying 3 marks each.
+(vi) In Section D	Questions no. 31 to 33 are Long Answer (LA) type questions carrying 5 marks each.
+(vii) In Section E	Questions no. 34 and 35 are case-based questions carrying
+4 marks each.
+(viii) There is no overall choice. However, an internal choice has been provided in 2 questions in Section B, 2 questions in Section C, 3 questions in Section D and 2 questions in Section E.
+(ix) Use of calculators is not allowed.
+Use the following values of physical constants, if required :
+c = 3	108 m/s
+h = 6.63	10 34 Js
+e = 1.6	10 19 C
+0 = 4	10 7 T m A 1
+0 = 8.854	10 12 C2 N 1 m 2
+1	= 9	109 N m2 C 2
+4	0
+Mass of electron (me) = 9.1	10 31 kg
+Mass of neutron = 1.675	10 27 kg
+Mass of proton = 1.673	10 27 kg
+6.023	1023 per gram mole
+Boltzmann constant = 1.38	10 23 JK 1
+
+SECTION A
+
+1. An electric dipole with dipole moment P = P0^i   P0 ^j is placed in an
+electric field E = E1 ^i + E2 ^j , where P0, E1 and E2 are constants. The torque	acting on the dipole is :
+(a) P0 (E2	E1) ^k	(b)	P0 (E2 + E1) ^k
+(c)	P0 (E2 + E1) ^k	(d)	P0 (E1	E2) ^k
+
+2. The current I flowing through a conductor of radius r is uniformly distributed across its cross-section. Which of the following graphs represents the variation of magnitude of magnetic field B with distance x from the axis of the conductor ?
+
+
+
+
+3. A bar magnet of pole strength (m) and magnetic moment (M) is cut perpendicular to its axis in two equal halves. The new pole strength (m )
+and magnetic moment (M ) of each part are respectively :
+(a) m and M	(b)	m and M 2
+
+(c)
+
+m and 2M	(d)	2m and M
+2	2
+
+4. In a series LC circuit connected to an ac source, with the increase in the frequency of the source, the net reactance :
+(a) increases linearly
+(b) decreases linearly
+(c) first increases to become maximum and then decreases to zero
+(d) first decreases to become zero and then increases
+
+5.Whichof the following radiations has the highest frequency ?(a)
+(b)
+(c)
+(d)Visible light Infrared rays Microwaves
+X-rays
+6. 	-slit experiment, the intensity on the screen is I0 at a point where path difference is	. The intensity at the point where path
+difference is 4 is :
+
+(a)
+
+I0	(b)	I0
+4	2
+
+(c)	I0	(d)	zero
+7. Which of the following figures represents the	 momentum with the de Broglie wavelength associated with it ?
+
+8. The binding energy per nucleon is lower :
+(a) for light nuclei only
+(b) for heavy nuclei only
+(c) for nuclei of middle mass numbers only
+(d) both for the light nuclei and the heavy nuclei
+
+9. Light of frequency 1·5 v0 is incident on a photosensitive material of threshold frequency v0. If the frequency of the incident radiation is kept constant and intensity is increased, the photo current will :
+(a) increase
+(b) decrease
+(c) not change
+(d) first decrease and then become zero
+
+10. The given figure shows a capacitor C and a resistor R connected in series to an ac source. V1 and V2 are voltmeters and A is an ammeter.
+
+Which of the following statements is correct ?
+(a) Current in the circuit lags in phase with voltage shown in V2 .
+(b) The voltage shown in V1 is ahead in phase with voltage shown in V2.
+(c) The current in the circuit and the voltage shown in V1 are always in phase.
+(d) The voltage shown in V1 lags behind in phase with the voltage shown in V2 .
+11. Two nuclei have their mass numbers in the ratio of 1 : 27. What is the ratio of their nuclear densities ?
+(a) 1 : 27	(b)	1 : 1
+(c)	1 : 9	(d)	1 : 3
+
+12. The impact parameter for an alpha particle approaching a target nucleus is maximum when the scattering angle ( ) is :
+(a) 0	(b)	90
+(c)	180	(d)	45
+
+13. A planar loop is rotated in a magnetic field about an axis perpendicular to the field. The polarity of induced emf changes once in each :
+
+(a) 1 revolution	(b)	revolution
+
+
+
+(c)
+
+1	revolution	(d)
+4
+
+
+revolution
+
+14. In which of the following diag to provide smooth output of a half-wave rectifier ?
+
+15. A plane wave is incident on a concave mirror of radius of curvature R. The reflected wave is a spherical wave of radius :
+
+
+(a)
+
+R	(b)	R
+4	2
+
+(c)	R	(d)	2R
+
+Questions number 16 to 18 are Assertion (A) and Reason (R) type questions. Two statements are given	one labelled Assertion (A) and the other labelled Reason
+(R). Select the correct answer from the codes (a), (b), (c) and (d) as given below.
+(a) Both Assertion (A) and Reason (R) are true and Reason (R) is the correct explanation of the Assertion (A).
+(b) Both Assertion (A) and Reason (R) are true, but Reason (R) is not
+the correct explanation of the Assertion (A).
+(c) Assertion (A) is true, but Reason (R) is false.
+(d) Assertion (A) is false and Reason (R) is also false.
+
+16. Assertion (A) : The temperature coefficient of resistance is positive for metals and negative for semi-conductors.
+Reason (R) : The charge carriers in metals are negatively charged whereas in semiconductors they are positively charged.
+17. Assertion (A) : A proton and an alpha particle having same kinetic energy are moving in circular paths in a uniform magnetic field. The radii of their circular paths will be equal.
+Reason (R) :  The centripetal force required to move a charged particle in a circle does not depend on the magnitude of the magnetic field.
+18. Assertion (A) : Silicon is preferred over germanium for making semiconductor devices.
+Reason (R) :  The energy gap for germanium is more than the energy gap for silicon.
+
+SECTION B
+
+19. (a) The electric field of an electromagnetic wave passing through vacuum is represented as Ex = E0 sin (kz  t). Identify the parameter which is related to the (i) wavelength, and (ii) the
+frequency of the wave in the above equation.
+(b)  Write two properties of a medium that determine the velocity of light in that medium.	2
+20. Two identical bars, one of a paramagnetic material and another of a diamagnetic material are kept in a uniform magnetic field. Show diagrammatically the modifications in the pattern of magnetic field in each	case.	How	are	the	two	materials	affected	by	increase	in temperature ?									2
+21. Light of wavelength 3500 Å is incident on two metals A and B. Which of them will yield photoelectrons, if their work functions are 4 2 eV and 1 9 eV respectively ? Make the necessary calculations to justify your
+answer.	2
+
+22. A uniform electric field is represented as E = (3	103
+
+N ) ^i . Find the
+C
+
+electric flux of this field through a square of side 10 cm when the :
+(a) plane of the square is parallel to y-z plane, and
+(b) the normal to plane of the square makes an angle of 60	with the
+x-axis.	2
+23. A beam of high energy photons, each of energy of E is incident on a metal surface and electrons are ejected from the surface. Assuming that the work function of the metal,  is negligible, find the relation between the de Broglie wavelength  associated with photoelectrons and the energy of
+photons E. Show in a figure, the variation of  as a function of E.	2
+24. (a)  A uniform electric field E of 500 N/C is directed along +x axis. O, B and A are three points in the field having x and y coordinates (in cm ) (0, 0), (4, 0) and (0, 3) respectively. Calculate the potential
+difference between the points (i) O and A, and (ii) O and B.	2
+OR
+(b)  Three point charges 1 C,  1 C and 2 C are kept at the vertices A, B and C respectively of an equilateral triangle of side 1 m. A1, B1  and C1  are the midpoints of the sides AB, BC and CA
+respectively. Calculate the net amount of work done in displacing
+the charge from A to A1, from B to B1 and from C to C1.	2
+25. (a)	When is more power delivered to a light bulb	just after it is turned on and the glow of the filament is increasing or after the glow becomes steady ? Why ?		2
+OR
+(b)	A battery is connected first across the series combination and then across the parallel combination, of three resistances R, 2R and 3R.
+In which of the three resistances will power dissipated be maximum
+in the two cases ? Justify your answer.	2
+
+SECTION C
+26. The figure shows a rectangular conductor PQRS with a movable arm PQ, kept in a uniform magnetic field B pointing into the page.
+
+
+(i) PQ is moved towards the right with a velocity	v . Obtain the expression for the emf developed across PQ.
+(ii) If r is the resistance of PQRS, find the force required to move PQ with constant velocity v .	3
+27. (a)  (i)  An electron in a hydrogen atom jumps from second excited state to the first excited state. Name the spectral series in the spectrum of hydrogen atom to which the emitted radiation belongs.
+(ii)		 tic
+of Hydrogen spectrum.	3
+OR
+(b) (i)  An -particle having kinetic energy K approaches a nucleus of atomic number Z. It gets close to the nucleus and then approaches a distance (d) and reverses its direction. Obtain an expression for the distance of closest approach (d) in terms of kinetic energy of the -particle.
+(ii)	A proton and an alpha particle approach a target nucleus in head-on position, with equal velocities. Find the ratio of their distances of closest approach to the target nucleus.	3
+
+28. (a)  (i)  In which case is diffraction effect more dominant  slit formed by 2 blades or slit formed by two fingers ?
+(ii)  Yellow light (  = 6000 Å) illuminates a single slit of width
+1  10 4 m. Calculate (i) the distance between two dark lines on either side of central maximum, in the diffraction pattern observed on a screen kept 1·5 m away from the slit, and (ii) the
+angular spread of the first minimum.	3
+OR
+(b) (i)  What will be the colour of the central bright fringe in Y double slit experiment if the monochromatic source is replaced by a source of white light ? Give reason for your answer.
+(ii)		slit experiment, the slits are separated by 0 3 mm and the screen is placed 1 5 m away from the slits. The distance between the central bright fringe and the sixth bright fringe is found to be 1 8 cm. Find the wavelength of
+light used in the experiment.	3
+29. (a)	It is not advisable to use a galvanometer as such to measure current directly. Why ?
+(b) Why should the value of resistance connected in parallel to a galvanometer be low ?
+(c) Is the reading shown by an ammeter in a circuit less than or more than the actual value of current flowing in the circuit ? Why ?	3
+30. Answer the following, giving reasons :	3
+(a) Induced emf does not always produce induced current.
+(b) The motion of a copper plate is damped when it is allowed to oscillate between pole pieces of a strong magnet.
+(c) No power is consumed in an ac circuit containing a pure inductor.
+
+SECTION D
+31. (a)  (i)  Draw the circuit diagram used to study I  V characteristics of a p-n junction diode in conducting mode. Mark on the graph the threshold voltage of the diode. Explain the significance of this voltage.
+(ii) In the circuit shown in the figure, the forward voltage drop across the diode is 0 3 V. Find the voltage difference between
+A and B.	5
+
+OR
+(b) (i) Briefly describe the classification of solids into metals, insulators and semi-conductors on the basis of energy level diagrams.
+(ii)	In a silicon diode, the current increases from 10 mA to 20 mA when the voltage changes from 0 6 V to 0 7 V. Calculate the dynamic resistance of the diode.	5
+32. (a)  (i)  Derive the relation between the current and the drift velocity of free electrons in a conductor. Briefly explain the variation of resistance of a conductor with rise in temperature.
+(ii) An ammeter, together with an unknown resistance in series is connected across two identical batteries, each of emf 1 5 V, connected (i) in series, and (ii) in parallel. If the current
+
+recorded in the two cases be
+
+1	A and	1
+2	3
+
+A respectively,
+
+calculate the internal resistance of each battery.	5
+OR
+
+(b)	(i)	State Kirchhoff
+balance for a Wheatstone Bridge.
+(ii)	Use Kirchhoff	to determine the currents flowing through the branches MN, TO and SP in the circuit shown in
+the figure.	5
+
+
+
+33. (a)  (i)  Draw a ray diagram to show the formation of image by a concave mirror when the object is placed between f and 2f. Using this diagram, derive the mirror equation.
+(ii)	An object is kept 30 cm in front of a convex mirror of focal length 12 cm. Find the nature and position of the image formed.	5
+OR
+(b) (i) Draw a ray diagram showing the image formation by a compound microscope. Hence obtain the expression for total magnification when the image is formed at least distance of distinct vision.
+(ii) A compound microscope consists of an objective lens of focal length 2 0 cm and an eyepiece of focal length 6 0 cm. If they are  separated  by  a  distance  of  24  cm,  find  the  total
+magnification when the image is formed at infinity.	5
+
+SECTION E
+
+
+34.
+
+
+
+
+
+
+
+
+A parallel plate capacitor is an arrangement of two identical metal plates kept parallel, a small distance apart. The capacitance of a capacitor depends on the size and separation of the two plates and also on the dielectric constant of the medium between the plates. Like resistors, capacitors can also be arranged in series or parallel or a combination of both. By virtue of electric field between the plates, charged capacitors store energy.
+(a) The capacitance of a parallel plate capacitor increases from 10	F to
+80	F on introducing a dielectric medium between the plates. Find
+the dielectric constant of the medium.	1
+
+(b) n capacitors, each of capacitance C, are connected in series. Find
+the equivalent capacitance of the combination.	1
+
+(c) A capacitor is charged to a potential (V) by connecting it to a battery. After some time, the battery is disconnected and a dielectric is introduced between the plates. How will the potential difference between the plates, and the energy stored in it be affected ? Justify your answer.	2
+OR
+
+(c)	Find the equivalent capacitance between points A and B, if capacitance of each capacitor is C.	2
+
+
+35.  A prism is a solid transparent medium bounded by three rectangular faces with triangular base and top. A ray of light incident at angle i on one face of a prism suffers two refractions on passing through a prism. Hence it deviates through a certain angle  from its original path. The
+angle of deviation becomes minimum (  =  m) for a certain value of angle
+i. In such a condition, the refracted ray inside the prism becomes parallel to its base. An expression for refractive index  of the material of the prism can be obtained in terms of angle A and angle m.
+(a) Show in a figure the variation of angle  with angle of incidence i.	1
+(b) Show that for a prism of small angle A, the refractive index  of its
+
+material can be written as	= 1 +
+
+ m .	1
+A
+
+(c) A ray of light passes through an equilateral prism such that both the angle of incidence and the angle of emergence are equal to the angle of prism A. Find the refractive index of the material of the
+prism, in terms of A.	2
+OR
+(c) A ray of light passes through a prism of angle 75 , as shown in the figure. The refractive index of the material of the prism, with
+respect to its surrounding is	. Find the angle of incidence i.	2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
